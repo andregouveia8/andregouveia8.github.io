@@ -84,7 +84,7 @@ p1{
 }
 
 footer {
-    height: 40px;
+    height: 45px;
     background: #262626 ;
     border-top:solid #F26513;
 }
@@ -114,3 +114,12 @@ footer {
     font-family: PortoSans-Light;
     src: url(fonts/PortoSans-Light.otf);
 }
+
+
+/* #map-canvas {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+    padding: 0px
+} */
