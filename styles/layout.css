@@ -115,6 +115,25 @@ footer {
     src: url(fonts/PortoSans-Light.otf);
 }
 
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+tr > td >p {
+    text-align: center;
+}
+tr > th > p {
+    text-align: center;
+    color: #F26513;
+}
+table{
+width: 100%
+}
+thead{
+    border-bottom: 1px solid #F26513;
+}
+
+
+
 
 #map-canvas {
     height: 100%;
