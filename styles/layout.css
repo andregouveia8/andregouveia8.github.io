@@ -116,10 +116,10 @@ footer {
 }
 
 
-/* #map-canvas {
+#map-canvas {
     height: 100%;
     width: 100%;
-    text-align: center;
+    /* text-align: center; */
     margin: 0px;
     padding: 0px
-} */
+}
