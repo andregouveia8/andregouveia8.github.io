@@ -88,10 +88,10 @@ footer {
     background: #262626 ;
     border-top:solid #F26513;
 }
-.col-md-2, .fa-facebook-official, .fa-linkedin-square, .fa-instagram, .fa-github{
+.col-md-2, .fa-facebook-official, .fa-linkedin-square, .fa-instagram, .fa-github, .fa-envelope-o{
     color:white;
 }
-.col-md-2, .fa-facebook-official:hover, .fa-linkedin-square:hover, .fa-instagram:hover, .fa-github:hover{
+.col-md-2, .fa-facebook-official:hover, .fa-linkedin-square:hover, .fa-instagram:hover, .fa-github:hover, .fa-envelope-o:hover{
     color:#F26513;
 }
 .btn{
